@@ -1,0 +1,8 @@
+base58
+PyJWT
+cryptography
+cbor2
+msgpack
+bech32
+qrcode[pil]
+pyzmq
