@@ -16,6 +16,7 @@ A comprehensive Tkinter-based GUI tool for encoding and decoding text across mul
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+- [QR Code for example](#qrcode)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -99,6 +100,10 @@ python base64_gui.py
 ![App Screenshot](screenshot.png)
 
 *Main interface showing encoding options and input/output areas*
+
+## QRCode
+
+![App Screenshot](qrcode.png)
 
 ## Roadmap
 
