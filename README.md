@@ -4,10 +4,11 @@ A comprehensive Tkinter-based GUI tool for encoding and decoding text across mul
 
 ## Badges
 
-[![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/Zionn69/Universal-Encoder-Decoder-gui.svg)](https://github.com/Zionn69/Universal-Encoder-Decoder/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/Zionn69/Universal-Encoder-Decoder-gui.svg)](https://github.com/Zionn69/Universal-Encoder-Decoder/issues)
+[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![GitHub license](https://img.shields.io/github/license/Zionn69/Universal-Encoder-Decoder)](https://github.com/Zionn69/Universal-Encoder-Decoder/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Zionn69/Universal-Encoder-Decoder)](https://github.com/Zionn69/Universal-Encoder-Decoder/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Zionn69/Universal-Encoder-Decoder)](https://github.com/Zionn69/Universal-Encoder-Decoder/issues)
+
 
 ## Table of Contents
 
