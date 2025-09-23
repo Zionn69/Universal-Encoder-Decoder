@@ -18,7 +18,6 @@ A comprehensive Tkinter-based GUI tool for encoding and decoding text across mul
 - [Screenshots](#screenshots)
 - [QR Code for example](#qrcode)
 - [Roadmap](#roadmap)
-- [Contributing](#contributing)
 - [Credits](#credits)
 - [License](#license)
 
@@ -115,16 +114,6 @@ python base64_gui.py
 - [ ] Performance optimizations for large files
 - [ ] Plugin system for custom encodings
 - [ ] Cross-platform testing and improvements
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ### Development Setup
 ```bash
