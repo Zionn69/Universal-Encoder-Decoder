@@ -57,7 +57,7 @@ A comprehensive Tkinter-based GUI tool for encoding and decoding text across mul
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Zionn69/universal-encoder-decoder-gui.git
+git clone https://github.com/Zionn69/Universal-Encoder-Decoder.git
 cd universal-encoder-decoder-gui
 ```
 
